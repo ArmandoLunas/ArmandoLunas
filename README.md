@@ -11,7 +11,7 @@ I'm a student at Faculty of Engineering UNAM working on myself, my coding skills
 - 🔭 I’m currently working on Indie games and my coding and art skills. 
 - 🌱 I’m currently learning GameDev, WebDev and Cyber Security 
 - 💬 Ask me about ~~Anime~~ and american sitcoms 
-- 📫 How to reach me: **lunajarmando73@gmail.com**   ||   **+52 55 7196 1320**  
+- 📫 How to reach me: **lunajarmando73@gmail.com**    
 
 <h3 align="left">SOCIALS</h3> </p>
 <p align="center">
